@@ -1,0 +1,11 @@
+/* CSS Document */
+body {
+  margin: 0;
+  background-color: antiquewhite; }
+
+.logo {
+  height: 70px; }
+
+.header {
+  padding: 10px 10px 10px 10px;
+  background-color: white; }
